@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+build/
+dist/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.benchmarks/
+.DS_Store
+
+# Your SEC contact details stay local; .env.example is the template.
+.env
+
+# Cached EDGAR responses and generated output.
+cache/
+output/

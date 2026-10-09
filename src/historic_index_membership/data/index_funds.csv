@@ -1,0 +1,33 @@
+index_id,index_name,priority,fund_ticker,fund_name,series_id,registrant_cik,heading_pattern,values_in_thousands,min_holdings,max_holdings,notes
+sp500,S&P 500,1,IVV,iShares Core S&P 500 ETF,S000004310,1100663,S ?& ?P 500 INDEX FUND|CORE S ?& ?P 500 ETF,false,470,540,Quarterly from 2000
+sp500,S&P 500,2,VOO,Vanguard 500 Index Fund,S000002839,36405,500 INDEX FUND,true,470,540,Quarterly from 2000; the fund behind VOO
+sp500,S&P 500,3,PEOPX,BNY Mellon S&P 500 Index Fund,S000000131,857114,S ?& ?P 500 INDEX FUND,false,470,540,Quarterly from 2000
+sp500,S&P 500,4,SPY,SPDR S&P 500 ETF Trust,,884394,SPDR S ?& ?P 500 ETF TRUST|SPDR TRUST,false,470,540,Unit investment trust: semi-annual N-30D before 2019; older text reports lose a few names
+sp400,S&P MidCap 400,1,IJH,iShares Core S&P Mid-Cap ETF,S000004307,1100663,S ?& ?P MID-?CAP 400 INDEX FUND|CORE S ?& ?P MID-?CAP ETF,false,370,430,Quarterly from 2000
+sp400,S&P MidCap 400,2,IVOO,Vanguard S&P Mid-Cap 400 ETF,S000030014,891190,S ?& ?P MID-?CAP 400 INDEX FUND,true,370,430,From late 2010
+sp400,S&P MidCap 400,3,PESPX,BNY Mellon MidCap Index Fund,S000000078,875732,MID-?CAP INDEX FUND,false,370,430,Quarterly from 2000
+sp600,S&P SmallCap 600,1,IJR,iShares Core S&P Small-Cap ETF,S000004313,1100663,S ?& ?P SMALL-?CAP 600 INDEX FUND|CORE S ?& ?P SMALL-?CAP ETF,false,560,640,Quarterly from 2000
+sp600,S&P SmallCap 600,2,VIOO,Vanguard S&P Small-Cap 600 ETF,S000030017,891190,S ?& ?P SMALL-?CAP 600 INDEX FUND,true,560,640,From late 2010
+sp600,S&P SmallCap 600,3,DISSX,BNY Mellon SmallCap Stock Index Fund,S000000132,857114,SMALL ?CAP STOCK INDEX FUND,false,560,640,Quarterly from 2000
+sp100,S&P 100,1,OEF,iShares S&P 100 ETF,S000004306,1100663,S ?& ?P 100 INDEX FUND|S ?& ?P 100 ETF,false,95,110,From late 2000
+sp500growth,S&P 500 Growth,1,IVW,iShares S&P 500 Growth ETF,S000004311,1100663,S ?& ?P 500 GROWTH INDEX FUND|S ?& ?P 500 GROWTH ETF,false,120,360,From 2006; before Dec 2005 the fund tracked the S&P 500/BARRA Growth index
+sp500growth,S&P 500 Growth,2,VOOG,Vanguard S&P 500 Growth ETF,S000030012,891190,S ?& ?P 500 GROWTH INDEX FUND,true,120,360,From late 2010
+sp500value,S&P 500 Value,1,IVE,iShares S&P 500 Value ETF,S000004312,1100663,S ?& ?P 500 VALUE INDEX FUND|S ?& ?P 500 VALUE ETF,false,300,470,From 2006; before Dec 2005 the fund tracked the S&P 500/BARRA Value index
+sp500value,S&P 500 Value,2,VOOV,Vanguard S&P 500 Value ETF,S000030013,891190,S ?& ?P 500 VALUE INDEX FUND,true,300,470,From late 2010
+nasdaq100,Nasdaq-100,1,QQQ,Invesco QQQ Trust,,1067839,QQQ TRUST|NASDAQ-100 TRUST,false,95,110,Unit investment trust until 2025: annual N-30B-2 before 2019
+nasdaq100,Nasdaq-100,2,USNQX,Victory Nasdaq-100 Index Fund,S000012907,908695,NASDAQ-100 INDEX FUND,true,95,110,Formerly USAA Nasdaq-100 Index Fund; quarterly from 2001
+nasdaq100,Nasdaq-100,3,QQQM,Invesco NASDAQ 100 ETF,S000069448,1378872,NASDAQ 100 ETF,false,95,110,From late 2020
+djia,Dow Jones Industrial Average,1,DIA,SPDR Dow Jones Industrial Average ETF Trust,,1041130,DIAMONDS TRUST|DOW JONES INDUSTRIAL AVERAGE ETF TRUST,false,28,32,Unit investment trust: semi-annual N-30D before 2019 (formerly DIAMONDS Trust)
+russell1000,Russell 1000,1,IWB,iShares Russell 1000 ETF,S000004347,1100663,RUSSELL 1000 INDEX FUND|RUSSELL 1000 ETF,false,940,1060,Quarterly from 2000
+russell1000,Russell 1000,2,VONE,Vanguard Russell 1000 ETF,S000030000,1021882,RUSSELL 1000 INDEX FUND,true,940,1060,From late 2010
+russell2000,Russell 2000,1,IWM,iShares Russell 2000 ETF,S000004344,1100663,RUSSELL 2000 INDEX FUND|RUSSELL 2000 ETF,false,1900,2100,Quarterly from 2001
+russell2000,Russell 2000,2,VTWO,Vanguard Russell 2000 ETF,S000030003,1021882,RUSSELL 2000 INDEX FUND,true,1900,2100,From late 2010
+russellmidcap,Russell Midcap,1,IWR,iShares Russell Mid-Cap ETF,S000004338,1100663,RUSSELL MID-?CAP INDEX FUND|RUSSELL MID-?CAP ETF,false,750,870,From 2001
+russell1000growth,Russell 1000 Growth,1,IWF,iShares Russell 1000 Growth ETF,S000004346,1100663,RUSSELL 1000 GROWTH INDEX FUND|RUSSELL 1000 GROWTH ETF,false,340,720,Quarterly from 2000
+russell1000growth,Russell 1000 Growth,2,VONG,Vanguard Russell 1000 Growth ETF,S000030002,1021882,RUSSELL 1000 GROWTH INDEX FUND,true,340,720,From late 2010
+russell1000value,Russell 1000 Value,1,IWD,iShares Russell 1000 Value ETF,S000004345,1100663,RUSSELL 1000 VALUE INDEX FUND|RUSSELL 1000 VALUE ETF,false,600,920,Quarterly from 2000
+russell1000value,Russell 1000 Value,2,VONV,Vanguard Russell 1000 Value ETF,S000030001,1021882,RUSSELL 1000 VALUE INDEX FUND,true,600,920,From late 2010
+russell2000growth,Russell 2000 Growth,1,IWO,iShares Russell 2000 Growth ETF,S000004343,1100663,RUSSELL 2000 GROWTH INDEX FUND|RUSSELL 2000 GROWTH ETF,false,1040,1420,Quarterly from 2000
+russell2000growth,Russell 2000 Growth,2,VTWG,Vanguard Russell 2000 Growth ETF,S000030005,1021882,RUSSELL 2000 GROWTH INDEX FUND,true,1040,1420,From late 2010
+russell2000value,Russell 2000 Value,1,IWN,iShares Russell 2000 Value ETF,S000004342,1100663,RUSSELL 2000 VALUE INDEX FUND|RUSSELL 2000 VALUE ETF,false,1200,1520,Quarterly from 2000
+russell2000value,Russell 2000 Value,2,VTWV,Vanguard Russell 2000 Value ETF,S000030004,1021882,RUSSELL 2000 VALUE INDEX FUND,true,1200,1520,From late 2010
